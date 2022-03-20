@@ -11,6 +11,6 @@
 #http://shop.mts.ru https://shop.mts.ru 178.248.232.150:80 178.248.232.150:443 https://178.248.232.150:443 tcp://178.248.232.150:80 tcp://178.248.232.150:443 --http-methods bypass dgb cfb stress
 #udp://92.223.100.53:53 udp://92.223.77.53:53 --http-methods UDP
 
-https://ati.su/ http://ati.su/ --http-methods stress --debug
+https://ati.su/ http://ati.su/ --http-methods stress
 
-tcp://139.45.252.51:80 tcp://139.45.252.51:443 tcp://139.45.252.52:80 tcp://139.45.252.52:443 --http-methods stress --debug
+tcp://139.45.252.51:80 tcp://139.45.252.51:443 tcp://139.45.252.52:80 tcp://139.45.252.52:443 --http-methods stress
