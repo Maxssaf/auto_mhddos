@@ -71,6 +71,7 @@ docker run -it --rm --pull always ghcr.io/aruiem234/auto_mhddos:latest 500 100 -
 
 ```shell
 sudo su
+apt install git -y
 cd ~  
 git clone https://github.com/Aruiem234/auto_mhddos.git  
 cd ~/auto_mhddos  
